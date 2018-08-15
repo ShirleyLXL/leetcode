@@ -26,7 +26,7 @@ public:
 
 
 # Solution from discussion part
-int lengthOfLongestSubstring(string s) {
+    int lengthOfLongestSubstring(string s) {
         vector<int> dict(256, -1);
         int maxLen = 0, start = -1;
         for (int i = 0; i != s.length(); i++) {
