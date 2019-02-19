@@ -1,3 +1,3 @@
-# leetcode2018
+# leetcode
 leetcode
 龟速刷题中
